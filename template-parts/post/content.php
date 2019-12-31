@@ -17,7 +17,7 @@
 	<section class="content-description-blog-article" class="entry-content"> 
 		<div class="container-blog-article-detail">
 				
-				<?php the_post_thumbnail( 'banner_single_blog' ); ?>
+				<?php the_post_thumbnail( 'full'); ?>
 	
 				<?php
 				the_content(
